@@ -10,3 +10,4 @@ while 1:
         total += int(num)
     print("Total: %d (%f%%)" % (total, total * (100.0 / out_of)))
     print("Luke edited this")
+    print("I now edited thissss")
